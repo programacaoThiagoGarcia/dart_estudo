@@ -1,0 +1,5 @@
+total 16
+drwxr-xr-x  4 thiagogarcia  staff  128 Oct 22 10:14 .
+drwxr-xr-x@ 8 thiagogarcia  staff  256 Oct 22 10:08 ..
+-rw-r--r--  1 thiagogarcia  staff  141 Oct 22 10:14 dir.txt
+-rw-r--r--  1 thiagogarcia  staff  578 Oct 22 10:15 sexto_programa.dart

@@ -1,0 +1,6 @@
+total 40
+-rw-r--r--  1 thiagogarcia  staff   915 Oct 21 11:10 Companies.dart
+-rw-r--r--  1 thiagogarcia  staff   244 Oct 21 14:52 companies.txt
+-rw-r--r--  1 thiagogarcia  staff  2112 Oct 21 14:50 dir.txt
+-rw-r--r--  1 thiagogarcia  staff  2641 Oct 21 11:10 file.json
+-rw-r--r--  1 thiagogarcia  staff  1610 Oct 21 14:52 quinto_programa.dart
