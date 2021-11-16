@@ -1,4 +1,4 @@
-import 'pessoa.dart';
+import 'Pessoa.dart';
 
 class Pessoa_fisica extends Pessoa {
   String cpf;
